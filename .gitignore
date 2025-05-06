@@ -33,4 +33,4 @@ build/
 .vscode/
 
 ### ENV ###
-./deployment/infras/.env
+deployment/infras/.env
